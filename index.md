@@ -5,6 +5,8 @@
 - [Riptide GP2](https://apps.apple.com/us/app/riptide-gp2/id662569685?itsct=apps_box_link&itscg=30200)
 - [Riptide GP: Renegade](https://apps.apple.com/us/app/riptide-gp-renegade/id1090577736?itsct=apps_box_link&itscg=30200)
 - [Spidersaurs](https://apps.apple.com/us/app/spidersaurs/id1452303230?itsct=apps_box_link&itscg=30200)
+- [PAC-MAN Party Royale](https://apps.apple.com/us/app/pac-man-party-royale/id1465543094?itsct=apps_box_link&itscg=30200)
+- [Beach Buggy Racing 2: IA](https://apps.apple.com/us/app/beach-buggy-racing-2-ia/id1559403521?itsct=apps_box_link&itscg=30200)
 
 ## Racing
 
