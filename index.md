@@ -23,6 +23,11 @@
 - [Altos's Adventure](https://apps.apple.com/us/app/altos-adventure/id950812012?itsct=apps_box_link&itscg=30200)
 - [Altos's Odyssey](https://apps.apple.com/us/app/altos-odyssey/id1182456409?itsct=apps_box_link&itscg=30200)
 - [Altos's Odyssey: The Lost City](https://apps.apple.com/us/app/altos-odyssey-the-lost-city/id1538650027?itsct=apps_box_link&itscg=30200)
+- [Angry Birds Reloaded](https://apps.apple.com/us/app/angry-birds-reloaded/id1539172625?itsct=apps_box_link&itscg=30200)
+
+## Arcade
+
+- [Hungry Shark World](https://apps.apple.com/us/app/hungry-shark-world/id1046846443?itsct=apps_box_link&itscg=30200)
 
 ## Reviews
 
